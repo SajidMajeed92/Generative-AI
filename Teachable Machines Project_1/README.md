@@ -1,0 +1,2 @@
+<h2>Teachable Machine, a tool that makes it easier for anyone – teachers, students, artists, makers of all kinds – to train machine learning models.</h2><br>
+This Project contains a Classification Model for recognition of Cats & Dogs.
